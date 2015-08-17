@@ -95,7 +95,7 @@ BGN:
   code: BGN
   name: Leva
   full_name: "Bulgarian Leva"
-  symbol_position: "before"
+  symbol_position: "after"
   symbol: лв
   unicode_hex:
     - 82
