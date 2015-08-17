@@ -3,19 +3,19 @@ AED:
   code: AED
   name: Dirhams
   full_name: "United Arab Emirates Dirhams"
-	symbol_position: before
+	symbol_position: "before"
 AFN:
   code: AFN
   name: Afghanis
   full_name: "Afghan Afghanis"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ؋
   unicode_hex: 1547
 ALL:
   code: ALL
   name: Leke
   full_name: "Albanian Lek"
-	symbol_position: before
+	symbol_position: "before"
   symbol: LEK
   unicode_hex:
     - 76
@@ -25,31 +25,31 @@ AMD:
   code: AMD
   name: Drams
   full_name: "Armenian Drams"
-	symbol_position: before
+	symbol_position: "before"
 ANG:
   code: ANG
   name: Guilders
   full_name: "Netherlands Antillean Guilders"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ƒ
   unicode_hex: 402
 AOA:
   code: AOA
   name: Kwanza
   full_name: "Angolan Kwanza"
-	symbol_position: before
+	symbol_position: "before"
 ARS:
   code: ARS
   name: Pesos
   full_name: "Argentine Pesos"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 AUD:
   code: AUD
   name: Dollars
   full_name: "Australian Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 AWG:
@@ -57,14 +57,14 @@ AWG:
   code: AWG
   name: Guilders
   full_name: "Aruban Guilders"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ƒ
   unicode_hex: 402
 AZN:
   code: AZN
   name: "New Manats"
   full_name: "Azerbaijan New Manats"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ман
   unicode_hex:
     - 1084
@@ -74,7 +74,7 @@ BAM:
   code: BAM
   name: "Convertible Marka"
   full_name: "Convertible Marka"
-	symbol_position: before
+	symbol_position: "before"
   symbol: KM
   unicode_hex:
     - 75
@@ -83,19 +83,19 @@ BBD:
   code: BBD
   name: Dollars
   full_name: "Barbados Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 BDT:
   code: BDT
   name: Taka
   full_name: "Bangladeshi Taka"
-	symbol_position: before
+	symbol_position: "before"
 BGN:
   code: BGN
   name: Leva
   full_name: "Bulgarian Leva"
-	symbol_position: before
+	symbol_position: "before"
   symbol: лв
   unicode_hex:
     - 82
@@ -104,31 +104,31 @@ BHD:
   code: BHD
   name: Dinars
   full_name: "Bahraini Dinars"
-	symbol_position: before
+	symbol_position: "before"
 BIF:
   code: BIF
   name: Francs
   full_name: "Burundi Francs"
-	symbol_position: before
+	symbol_position: "before"
 BMD:
   code: BMD
   name: Dollars
   full_name: "Bermudian Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 BND:
   code: BND
   name: Dollars
   full_name: "Brunei Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 BOB:
   code: BOB
   name: Bolivianos
   full_name: "Bolivianos"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $b
   unicode_hex:
     - 36
@@ -137,7 +137,7 @@ BRL:
   code: BRL
   name: Real
   full_name: "Brazilian Real"
-	symbol_position: before
+	symbol_position: "before"
   symbol: R$
   unicode_hex:
     - 82
@@ -146,26 +146,26 @@ BSD:
   code: BSD
   name: Dollars
   full_name: "Bahamian Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 BTN:
   code: BTN
   name: Ngultrum
   full_name: "Bhutan Ngultrum"
-	symbol_position: before
+	symbol_position: "before"
 BWP:
   code: BWP
   name: Pulas
   full_name: "Botswana Pulas"
-	symbol_position: before
+	symbol_position: "before"
   symbol: P
   unicode_hex: 80
 BYR:
   code: BYR
   name: Rubles
   full_name: "Belarussian Rubles"
-	symbol_position: before
+	symbol_position: "before"
   symbol: p.
   unicode_hex:
     - 112
@@ -174,7 +174,7 @@ BZD:
   code: BZD
   name: Dollars
   full_name: "Belize Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: BZ$
   unicode_hex:
     - 66
@@ -184,19 +184,19 @@ CAD:
   code: CAD
   name: Dollars
   full_name: "Canadian Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 CDF:
   code: CDF
   name: Franc
   full_name: "Franc"
-	symbol_position: before
+	symbol_position: "before"
 CHF:
   code: CHF
   name: "Switzerland Francs"
   full_name: "Switzerland Francs"
-	symbol_position: before
+	symbol_position: "before"
   symbol: CHF
   unicode_hex:
     - 67
@@ -206,47 +206,47 @@ CLP:
   code: CLP
   name: Pesos
   full_name: "Chilean Pesos"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 CNY:
   code: CNY
   name: "Yuan Renminbi"
   full_name: "Yuan Renminbi"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ¥
   unicode_hex: 165
 COP:
   code: COP
   name: Pesos
   full_name: "Colombian Pesos"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 CRC:
   code: CRC
   name: Colones
   full_name: "Costa Rican Colones"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₡
   unicode_hex: 8353
 CUP:
   code: CUP
   name: Pesos
   full_name: "Cuban Pesos"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₱
   unicode_hex: 8369
 CVE:
   code: CVE
   name: Escudos
   full_name: "Cape Verde Escudos"
-	symbol_position: before
+	symbol_position: "before"
 CZK:
   code: CZK
   name: Koruny
   full_name: "Czech Koruny"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Kč
   unicode_hex:
     - 75
@@ -255,12 +255,12 @@ DJF:
   code: DJF
   name: Francs
   full_name: "Djibouti Francs"
-	symbol_position: before
+	symbol_position: "before"
 DKK:
   code: DKK
   name: Kroner
   full_name: "Danish Kroner"
-	symbol_position: before
+	symbol_position: "before"
   symbol: kr
   unicode_hex:
     - 107
@@ -269,7 +269,7 @@ DOP:
   code: DOP
   name: Pesos
   full_name: "Dominican Pesos"
-	symbol_position: before
+	symbol_position: "before"
   symbol: RD$
   unicode_hex:
     - 82
@@ -279,17 +279,17 @@ DZD:
   code: DZD
   name: Dinars
   full_name: "Algerian Dinar"
-	symbol_position: before
+	symbol_position: "before"
 ECS:
   code: ECS
   name: Sucre
   full_name: "Ecuador Sucre"
-	symbol_position: before
+	symbol_position: "before"
 EEK:
   code: EEK
   name: Krooni
   full_name: "Krooni"
-	symbol_position: before
+	symbol_position: "before"
   symbol: kr
   unicode_hex:
     - 107
@@ -298,107 +298,107 @@ EGP:
   code: EGP
   name: Pounds
   full_name: "Egyptian Pounds"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 ETB:
   code: ETB
   name: "Ethopia Birr"
   full_name: "Ethopia Birr"
-	symbol_position: before
+	symbol_position: "before"
 EUR:
   code: EUR
   name: Euro
   full_name: "Euro"
-	symbol_position: before
+	symbol_position: "before"
   symbol: €
   unicode_hex: 8364
 FJD:
   code: FJD
   name: Dollar
   full_name: "Fiji Dollar"
-	symbol_position: before
+	symbol_position: "before"
 FKP:
   code: FKP
   name: Pounds
   full_name: "Falkland Islands Pounds"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 GBP:
   code: GBP
   name: Pounds
   full_name: "Pound Sterling"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 GEL:
   code: GEL
   name: Lari
   full_name: "Lari"
-	symbol_position: before
+	symbol_position: "before"
 GGP:
   code: GGP
   name: Pounds
   full_name: "Pound Sterling"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 GHS:
   code: GHS
   name: Cedis
   full_name: "Ghanaian Cedis"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ¢
   unicode_hex: 162
 GIP:
   code: GIP
   name: Pounds
   full_name: "Gibraltar Pounds"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 GMD:
   code: GMD
   name: Lari
   full_name: "Gambian Dalasi"
-	symbol_position: before
+	symbol_position: "before"
 GNF:
   code: GNF
   name: Francs
   full_name: "Guinea Francs"
-	symbol_position: before
+	symbol_position: "before"
 GTQ:
   code: GTQ
   name: Quetzales
   full_name: "Quetzales"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Q
   unicode_hex: 81
 GYD:
   code: GYD
   name: Dollars
   full_name: "Guyana Dollars"
-	symbol_position: before
+	symbol_position: "before"
 HKD:
   code: HKD
   name: Dollars
   full_name: "Hong Kong Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 HNL:
   code: HNL
   name: Lempiras
   full_name: "Honduaran Lempiras"
-	symbol_position: before
+	symbol_position: "before"
   symbol: L
   unicode_hex: 76
 HRK:
   code: HRK
   name: Kuna
   full_name: "Croatian Kuna"
-	symbol_position: before
+	symbol_position: "before"
   symbol: kn
   unicode_hex:
     - 107
@@ -407,12 +407,12 @@ HTG:
   code: HTG
   name: "Haitian Gourde"
   full_name: "Haitian Gourde"
-	symbol_position: before
+	symbol_position: "before"
 HUF:
   code: HUF
   name: Forint
   full_name: "Hungarian Forint"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Ft
   unicode_hex:
     - 70
@@ -421,7 +421,7 @@ IDR:
   code: IDR
   name: "Indonesian Rupiahs"
   full_name: "Indonesian Rupiahs"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Rp
   unicode_hex:
     - 82
@@ -430,40 +430,40 @@ ILS:
   code: ILS
   name: "New Shekels"
   full_name: "New Shekels"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₪
   unicode_hex: 8362
 IMP:
   code: IMP
   name: Pounds
   full_name: "Pounds"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 INR:
   code: INR
   name: Rupees
   full_name: "Indian Rupees"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₨
   unicode_hex: 8360
 IQD:
   code: IQD
   name: Dinars
   full_name: "Iraqi Dinars"
-	symbol_position: before
+	symbol_position: "before"
 IRR:
   code: IRR
   name: Riais
   full_name: "Iranian Riais"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ﷼
   unicode_hex: 65020
 ISK:
   code: ISK
   name: Kronur
   full_name: "Iceland Kronur"
-	symbol_position: before
+	symbol_position: "before"
   symbol: kr
   unicode_hex:
     - 107
@@ -472,36 +472,36 @@ JEP:
   code: JEP
   name: Pounds
   full_name: "Pounds"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 JMD:
   code: JMD
   name: Dollars
   full_name: "Jamaican Dollars"
-	symbol_position: before
+	symbol_position: "before"
 JOD:
   code: JOD
   name: Dinars
   full_name: "Jordanian Dinar"
-	symbol_position: before
+	symbol_position: "before"
 JPY:
   code: JPY
   name: Yen
   full_name: "Japanese Yen"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ¥
   unicode_hex: 165
 KES:
   code: KES
   name: Shillings
   full_name: "Kenyan Shillings"
-	symbol_position: before
+	symbol_position: "before"
 KGS:
   code: KGS
   name: Soms
   full_name: "Soms"
-	symbol_position: before
+	symbol_position: "before"
   symbol: лв
   unicode_hex:
     - 1083
@@ -510,43 +510,43 @@ KHR:
   code: KHR
   name: Rieis
   full_name: "Kampuchean Rieis"
-	symbol_position: before
+	symbol_position: "before"
 KMF:
   code: KMF
   name: Francs
   full_name: "Comoros Francs"
-	symbol_position: before
+	symbol_position: "before"
 KPW:
   code: KPW
   name: Won
   full_name: "North Korean Won"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₩
   unicode_hex: 8361
 KRW:
   code: KRW
   name: Won
   full_name: "Korean Won"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₩
   unicode_hex: 8361
 KWD:
   code: KWD
   name: Dinars
   full_name: "Kuwaiti Dinars"
-	symbol_position: before
+	symbol_position: "before"
 KYD:
   code: KYD
   name: Dollars
   full_name: "Cayman Islands Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 KZT:
   code: KZT
   name: Tenege
   full_name: "Kazhakstan Tenege"
-	symbol_position: before
+	symbol_position: "before"
   symbol: лв
   unicode_hex:
     - 1083
@@ -555,40 +555,40 @@ LAK:
   code: LAK
   name: Kips
   full_name: "Lao Kips"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₭
   unicode_hex: 8365
 LBP:
   code: LBP
   name: Pounds
   full_name: "Lebanese Pounds"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 LKR:
   code: LKR
   name: Rupees
   full_name: "Sri Lanka Rupees"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₨
   unicode_hex: 8360
 LRD:
   code: LRD
   name: Dollars
   full_name: "Liberian Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 LSL:
   code: LSL
   name: Maloti
   full_name: "Lesotho Maloti"
-	symbol_position: before
+	symbol_position: "before"
 LTL:
   code: LTL
   name: Litai
   full_name: "Lithuanian Litai"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Lt
   unicode_hex:
     - 76
@@ -597,7 +597,7 @@ LVL:
   code: LVL
   name: Lati
   full_name: "Latvian Lati"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Ls
   unicode_hex:
     - 76
@@ -606,78 +606,78 @@ LYD:
   code: LYD
   name: Dinars
   full_name: "Libyan Dinars"
-	symbol_position: before
+	symbol_position: "before"
 MAD:
   code: MAD
   name: Dirhams
   full_name: "Moroccan Dirhams"
-	symbol_position: before
+	symbol_position: "before"
 MDL:
   code: MDL
   name: Lei
   full_name: "Moldovan Lei"
-	symbol_position: before
+	symbol_position: "before"
 MKD:
   code: MKD
   name: "Macedonian Denar"
   full_name: "Macedonian Denar"
-	symbol_position: before
+	symbol_position: "before"
 MGA:
   code: MGA
   name: Ariary
   full_name: "Ariary"
-	symbol_position: before
+	symbol_position: "before"
 MMK:
   code: MMK
   name: Kyat
   full_name: "Myanmar Kyat"
-	symbol_position: before
+	symbol_position: "before"
 MNK:
   code: MNK
   name: Kyats
   full_name: "Kyats"
-	symbol_position: before
+	symbol_position: "before"
 MNT:
   code: MNT
   name: Tugriks
   full_name: "Mongolian Tugriks"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₮
   unicode_hex: 8366
 MRO:
   code: MRO
   name: Ouguiyas
   full_name: "Mauritanian Ouguiyas"
-	symbol_position: before
+	symbol_position: "before"
 MUR:
   code: MUR
   name: Rupees
   full_name: "Mauritius Rupees"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₨
   unicode_hex: 8360
 MVR:
   code: MVR
   name: Rufiyaa
   full_name: "Maldive Rufiyaa"
-	symbol_position: before
+	symbol_position: "before"
 MWK:
   code: MWK
   name: Kwachas
   full_name: "Malawi Kwachas"
-	symbol_position: before
+	symbol_position: "before"
 MXN:
   code: MXN
   name: Pesos
   full_name: "Mexican Nuevo Pesos"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 MYR:
   code: MYR
   name: Ringgits
   full_name: "Malaysian Ringgits"
-	symbol_position: before
+	symbol_position: "before"
   symbol: RM
   unicode_hex:
     - 82
@@ -686,7 +686,7 @@ MZN:
   code: MZN
   name: Meticals
   full_name: "Mozambique Meticals"
-	symbol_position: before
+	symbol_position: "before"
   symbol: MT
   unicode_hex:
     - 77
@@ -695,21 +695,21 @@ NAD:
   code: NAD
   name: Dollars
   full_name: "Namibian Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 NGN:
   code: NGN
   name: Nairas
   full_name: "Nigerian Nairas"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₦
   unicode_hex: 8358
 NIO:
   code: NIO
   name: Cordobas
   full_name: "Nicaraguan Cordobas Oro"
-	symbol_position: before
+	symbol_position: "before"
   symbol: C$
   unicode_hex:
     - 67
@@ -718,7 +718,7 @@ NOK:
   code: NOK
   name: Kroner
   full_name: "Norwegian Kroner"
-	symbol_position: before
+	symbol_position: "before"
   symbol: kr
   unicode_hex:
     - 123
@@ -727,28 +727,28 @@ NPR:
   code: NPR
   name: Rupees
   full_name: "Nepalese Rupees"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₨
   unicode_hex: 8360
 NZD:
   code: NZD
   name: "New Zealand Dollars"
   full_name: "New Zealand Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 OMR:
   code: OMR
   name: Riais
   full_name: "Riais"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ﷼
   unicode_hex: 65020
 PAB:
   code: PAB
   name: Balboa
   full_name: "Balboa"
-	symbol_position: before
+	symbol_position: "before"
   symbol: B/.
   unicode_hex:
     - 66
@@ -758,7 +758,7 @@ PEN:
   code: PEN
   name: "Nuevos Soles"
   full_name: "Peru Nuevos Soles"
-	symbol_position: before
+	symbol_position: "before"
   symbol: S/.
   unicode_hex:
     - "0x50,0x2f,0x2e"
@@ -766,12 +766,12 @@ PGK:
   code: PGK
   name: Kina
   full_name: "Kina"
-	symbol_position: before
+	symbol_position: "before"
 PHP:
   code: PHP
   name: Pesos
   full_name: "Phillippines Pesos"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Php
   unicode_hex:
     - 80
@@ -781,14 +781,14 @@ PKR:
   code: PKR
   name: Rupees
   full_name: "Pakistani Rupees"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₨
   unicode_hex: 8360
 PLN:
   code: PLN
   name: Zlotych
   full_name: "Poland Zlotych"
-	symbol_position: before
+	symbol_position: "before"
   symbol: zł
   unicode_hex:
     - 122
@@ -797,7 +797,7 @@ PYG:
   code: PYG
   name: Guarani
   full_name: "Paraguay Guarani"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Gs
   unicode_hex:
     - 71
@@ -806,14 +806,14 @@ QAR:
   code: QAR
   name: Rials
   full_name: "Qatar Rials"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ﷼
   unicode_hex: 65020
 RON:
   code: RON
   name: "New Lei"
   full_name: "Romanian New Lei"
-	symbol_position: before
+	symbol_position: "before"
   symbol: lei
   unicode_hex:
     - 108
@@ -823,7 +823,7 @@ RSD:
   code: RSD
   name: Dinars
   full_name: "Serbia Dinars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Дин.
   unicode_hex:
     - 1044
@@ -834,7 +834,7 @@ RUB:
   code: RUB
   name: Rubles
   full_name: "Russia Rubles"
-	symbol_position: before
+	symbol_position: "before"
   symbol: руб
   unicode_hex:
     - 1088
@@ -844,38 +844,38 @@ RWF:
   code: RWF
   name: Francs
   full_name: "Francs"
-	symbol_position: before
+	symbol_position: "before"
 SAR:
   code: SAR
   name: Riyals
   full_name: "Saudi Arabia Riyals"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ﷼
   unicode_hex: 65020
 SBD:
   code: SBD
   name: Dollars
   full_name: "Solomon Islands Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 SCR:
   code: SCR
   name: Rupees
   full_name: "Seychelles Rupees"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₨
   unicode_hex: 8360
 SDG:
   code: SDG
   name: Pounds
   full_name: "Pounds"
-	symbol_position: before
+	symbol_position: "before"
 SEK:
   code: SEK
   name: Kronor
   full_name: "Sweden Kronor"
-	symbol_position: before
+	symbol_position: "before"
   symbol: kr
   unicode_hex:
     - 107
@@ -884,89 +884,89 @@ SGD:
   code: SGD
   name: Dollars
   full_name: "Singapore Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 SHP:
   code: SHP
   name: Pounds
   full_name: "Saint Helena Pounds"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 SLL:
   code: SLL
   name: Leones
   full_name: "Leones"
-	symbol_position: before
+	symbol_position: "before"
 SOS:
   code: SOS
   name: Shillings
   full_name: "Somalia Shillings"
-	symbol_position: before
+	symbol_position: "before"
   symbol: S
   unicode_hex: 83
 SRD:
   code: SRD
   name: Dollars
   full_name: "Surifull_name Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 STD:
   code: STD
   name: Dobras
   full_name: "Dobras"
-	symbol_position: before
+	symbol_position: "before"
 SVC:
   code: SVC
   name: "Salvadoran Colón"
   full_name: "Salvadoran Colón"
-	symbol_position: before
+	symbol_position: "before"
 SYP:
   code: SYP
   name: Pounds
   full_name: "Syria Pounds"
-	symbol_position: before
+	symbol_position: "before"
   symbol: £
   unicode_hex: 163
 SZL:
   code: SZL
   name: Emalangeni
   full_name: "Emalangeni"
-	symbol_position: before
+	symbol_position: "before"
 THB:
   code: THB
   name: Baht
   full_name: "Thaliand Baht"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ฿
   unicode_hex: 3647
 TJS:
   code: TJS
   name: Somoni
   full_name: "Somoni"
-	symbol_position: before
+	symbol_position: "before"
 TMM:
   code: TMM
   name: Manat
   full_name: "Manat"
-	symbol_position: before
+	symbol_position: "before"
 TND:
   code: TND
   name: "Dinars"
   full_name: "Tunisian Dinars"
-	symbol_position: before
+	symbol_position: "before"
 TOP:
   code: TOP
   name: Pa'anga
   full_name: "Pa'anga"
-	symbol_position: before
+	symbol_position: "before"
 TRY:
   code: TRY
   name: Lira
   full_name: "Turkey Lira"
-	symbol_position: before
+	symbol_position: "before"
   symbol: TL
   unicode_hex:
     - 84
@@ -975,19 +975,19 @@ TTD:
   code: TTD
   name: Dollars
   full_name: "Trinidad and Tobago Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 TVD:
   code: TVD
   name: "Tuvalu Dollars"
   full_name: "Tuvalu Dollars"
-	symbol_position: before
+	symbol_position: "before"
 TWD:
   code: TWD
   name: "New Dollars"
   full_name: "Taiwan New Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: NT$
   unicode_hex:
     - 78
@@ -997,31 +997,31 @@ TZS:
   code: TZS
   name: Shillings
   full_name: "Shillings"
-	symbol_position: before
+	symbol_position: "before"
 UAH:
   code: UAH
   name: Hryvnia
   full_name: "Ukraine Hryvnia"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₴
   unicode_hex: 8372
 UGX:
   code: UGX
   name: Shillings
   full_name: "Shillings"
-	symbol_position: before
+	symbol_position: "before"
 USD:
   code: USD
   name: Dollars
   full_name: "United States Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 UYU:
   code: UYU
   name: Pesos
   full_name: "Uruguay Pesos"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $U
   unicode_hex:
     - 36
@@ -1030,7 +1030,7 @@ UZS:
   code: UZS
   name: Sums
   full_name: "Uzbekistan Sums"
-	symbol_position: before
+	symbol_position: "before"
   symbol: лв
   unicode_hex:
     - 1083
@@ -1039,7 +1039,7 @@ VEF:
   code: VEF
   name: "Bolivares Fuertes"
   full_name: "Venezuela Bolivares Fuertes"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Bs
   unicode_hex:
     - 1083
@@ -1048,55 +1048,55 @@ VND:
   code: VND
   name: Dong
   full_name: "Viet Nam Dong"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ₫
   unicode_hex: 8363
 XAF:
   code: XAF
   name: "Communauté Financière Africaine Francs"
   full_name: "Communauté Financière Africaine Francs"
-	symbol_position: before
+	symbol_position: "before"
 XCD:
   code: XCD
   name: "East Caribbean Dollars"
   full_name: "East Caribbean Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: $
   unicode_hex: 36
 XOF:
   code: XOF
   name: "Communauté Financière Africaine Francs"
   full_name: "Communauté Financière Africaine Francs"
-	symbol_position: before
+	symbol_position: "before"
 XPF:
   code: XPF
   name: "Comptoirs Français du Pacifique Francs"
   full_name: "Comptoirs Français du Pacifique Francs"
-	symbol_position: before
+	symbol_position: "before"
 YER:
   code: YER
   name: Rials
   full_name: "Yemen Rials"
-	symbol_position: before
+	symbol_position: "before"
   symbol: ﷼
   unicode_hex: 65020
 ZAR:
   code: ZAR
   name: Rand
   full_name: "South Africa Rand"
-	symbol_position: before
+	symbol_position: "before"
   symbol: R
   unicode_hex: 82
 ZMK:
   code: ZMK
   name: Kwacha
   full_name: "Kwacha"
-	symbol_position: before
+	symbol_position: "before"
 ZWD:
   code: ZWD
   name: "Zimbabwe Dollars"
   full_name: "Zimbabwe Dollars"
-	symbol_position: before
+	symbol_position: "before"
   symbol: Z$
   unicode_hex:
     - 90
